@@ -25,5 +25,5 @@ Testing related artefacts - Functional, Performance and Load - Data loading scri
 
 ### `populate_ref_id_update_uin.py`
 
-- **Purpose**: Bulk inserts `res_partner.ref_id` values from mosip id generator `uin` values and updates the `uin_status` from UNUSED to ISSUED
+- **Purpose**: Bulk inserts `res_partner.ref_id` values from mosip id generator `uin` values and updates the `uin_status` from UNUSED to ASSIGNED
 
